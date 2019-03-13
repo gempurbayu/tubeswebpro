@@ -1,0 +1,53 @@
+
+.nav {
+	padding-bottom: 5px;
+}
+
+.imageartikel {
+	text-align: center;
+}
+
+.isi {
+	margin-top: 20px;
+}
+
+.caption {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.date {
+	margin-top: 90px;
+}
+
+.date h6 {
+	color: #D90429;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.baru {
+	margin-bottom: 20px;
+}
+
+.baru h5 {
+	margin-bottom: 10px;
+}
+
+.baru a {
+	text-decoration: none;
+	font-size: 20px;
+	color: #2B2D42;
+}
+
+.baru a:hover {
+	text-decoration: none;
+}
+
+.baru:hover {
+	opacity: 0.5;
+	transition-duration: 0.3s;
+}
+
+

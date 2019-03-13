@@ -1,0 +1,105 @@
+
+#header {
+	height: 700px;
+	background-image: linear-gradient(to bottom right, #D90429, #EF233C);
+}
+
+nav {
+	padding-top: 10px;
+}
+
+.navbar-brand {
+	color: white;
+}
+
+.navbar-brand:hover {
+	color: #8D99AE;
+	transition-duration: 0.5s;
+}
+
+.nav-link {
+	color: white;
+}
+
+.nav-link:hover {
+	color: #8D99AE;
+	transition-duration: 0.5s;
+}
+
+.nav-item {
+	margin-left: 40px;
+}
+
+.peta{
+	background-image: url(../img/indo.png);
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	opacity: 0.2;
+	-webkit-filter : grayscale(70%);
+	filter: grayscale(70%);
+}
+
+.banner {
+	text-align: center;
+	padding-top: 230px;
+	height: 100%;
+}
+
+.banner h1 {
+	font-size: 54px;
+	color: #2B2D42;
+}
+
+.banner h1:hover {
+	color: white;
+	text-decoration: underline;
+	transition-duration: 0.5s;
+}
+
+.banner h4 {
+	color: #2B2D42;
+}
+
+.banner h4 span {
+	color: white;
+}
+
+.banner a {
+	width: 120px;
+}
+
+#content {
+	height: 1200px;
+	width: 100%;
+}
+
+#demo {
+	margin-top: 20px;
+}
+
+.judul {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.media-body h4 small i {
+	font-size: 15px;
+}
+
+
+
+.footer {
+	height: 50px;	
+	margin-top: 20px;
+}
+
+
+.copyright {
+	text-align: center;
+	padding-top: 15px;
+}
